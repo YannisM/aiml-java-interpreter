@@ -20,3 +20,6 @@ Thumbs.db
 **/target/
 /log/
 aiml-bots
+.project
+.classpath
+*.prefs
